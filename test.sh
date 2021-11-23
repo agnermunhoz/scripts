@@ -1,3 +1,3 @@
 #!/bin/bash
-export id="qwiklabs-gcp-00-9c3237f72ccd"
+export id=$1
 echo $id
